@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandar Patil</h1>
-<h3 align="center">Specialized in Python and Machine Learning from Pune, Maharashtra, India</h3>
+<h3 align="center">Specialized in Python and Machine Learning from Pune, Maharashtra, India.</h3>
 
 - 👋 Hi, I’m @Mandarhp77
 - 👀 I’m interested in Python, Machine Learning and Deep Learning and Django
