@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandar Patil</h1>
-<h3 align="center">Specialized in Python and Machine Learning from India</h3>
+<h3 align="center">Specialized in Python and Machine Learning from Pune, Maharashtra, India</h3>
 
 - 👋 Hi, I’m @Mandarhp77
 - 👀 I’m interested in Python, Machine Learning and Deep Learning and Django
@@ -12,7 +12,7 @@
 ## 📈 Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mandarhp77&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mandarhp77&theme=highcontrast" />
+        <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mandarhp77&theme=highcontrast" />
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandarhp77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
