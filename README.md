@@ -2,9 +2,9 @@
 <h3 align="center">Specialized in Python, Machine Learning and Database Technologies from Pune, Maharashtra, India.</h3>
 
 - 👋 Hi, I’m @Mandarhp77
-- 👀 I’m interested in Python, Machine Learning and Deep Learning and Django
+- 👀 I’m interested in Python, Flask/Django, Machine Learning and Deep Learning
 - 🌱 I’m recently completed my post graduation diploma in big data analytics
-- 💞️ I’m looking to collaborate on python, Machine Learning and Database Technologies.
+- 💞️ I’m looking to collaborate on Python, Machine Learning and Database Technologies.
 - 📫 How to reach me? Mail me on mandarhp70@gmail.com or Whatsapp @ 8793518145
 - ⚡ **[My Portfolio](https://mandarhp77.github.io/staticweb/)**
 
