@@ -8,14 +8,16 @@
 - 📫 How to reach me? Mail me on mandarhp70@gmail.com or Whatsapp @ 8793518145
 - ⚡ **[My Portfolio](https://mandarhp77.github.io/staticweb/)**
 
-
+<img src="static/assets/img/44.png" class="img-fluid" alt="">
 ## 📈 Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mandarhp77&show_icons=true&theme=highcontrast" />
         <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mandarhp77&theme=highcontrast" />
 </p>
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandarhp77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 
