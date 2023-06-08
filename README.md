@@ -11,13 +11,14 @@
 
 <img src="Github.jpeg" class="img-fluid" alt="">
 📈 Stats
+<br>
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mandarhp77&show_icons=true&theme=highcontrast" />
         <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mandarhp77&theme=highcontrast" />
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandarhp77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<hr>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandarhp77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
