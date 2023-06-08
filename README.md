@@ -15,9 +15,8 @@
         <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mandarhp77&theme=highcontrast" />
 </p>
 
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandarhp77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 
 
